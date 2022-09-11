@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gradesList>
+    <catalog>
+        <id/>
+        <student>
+            <cnp>0375092375</cnp>
+            <email>irina@yahoo.com</email>
+            <id>43</id>
+            <nume>Matei Irina</nume>
+            <parola>mateii</parola>
+            <username>mateii</username>
+            <anStudiu>2</anStudiu>
+        </student>
+        <curs>
+            <anDeStudiu>2</anDeStudiu>
+            <id>41</id>
+            <listaProfesori>
+                <cnp>7597353075</cnp>
+                <email>ion@yahoo.com</email>
+                <id>42</id>
+                <nume>Ionescu Ion</nume>
+                <parola>ionescu</parola>
+                <username>ionescu</username>
+                <admin>false</admin>
+                <numarTel>070242635</numarTel>
+            </listaProfesori>
+            <listaProfesori>
+                <cnp>2879456854348</cnp>
+                <email>mihais@yahoo.com</email>
+                <id>67</id>
+                <nume>Solomon Mihai</nume>
+                <parola>Solomon43</parola>
+                <username>Solomon43</username>
+                <admin>false</admin>
+                <numarTel>0758946138</numarTel>
+            </listaProfesori>
+            <numeCurs>Programare functionala</numeCurs>
+        </curs>
+        <nota>6</nota>
+    </catalog>
+    <catalog>
+        <id/>
+        <student>
+            <cnp>2696845978542</cnp>
+            <email>bianca@yahoo.com</email>
+            <id>44</id>
+            <nume>Vlad Bianca</nume>
+            <parola>Vladb4</parola>
+            <username>vladb</username>
+            <anStudiu>4</anStudiu>
+        </student>
+        <curs>
+            <anDeStudiu>2</anDeStudiu>
+            <id>41</id>
+            <listaProfesori>
+                <cnp>7597353075</cnp>
+                <email>ion@yahoo.com</email>
+                <id>42</id>
+                <nume>Ionescu Ion</nume>
+                <parola>ionescu</parola>
+                <username>ionescu</username>
+                <admin>false</admin>
+                <numarTel>070242635</numarTel>
+            </listaProfesori>
+            <listaProfesori>
+                <cnp>2879456854348</cnp>
+                <email>mihais@yahoo.com</email>
+                <id>67</id>
+                <nume>Solomon Mihai</nume>
+                <parola>Solomon43</parola>
+                <username>Solomon43</username>
+                <admin>false</admin>
+                <numarTel>0758946138</numarTel>
+            </listaProfesori>
+            <numeCurs>Programare functionala</numeCurs>
+        </curs>
+        <nota>9</nota>
+    </catalog>
+</gradesList>

@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="5113.805365852048" y="1410.0">com.example.demo.service.impl.UserServiceImpl</node>
+    <node x="739.307969774014" y="530.0">com.example.demo.model.Catalog</node>
+    <node x="4687.019651566334" y="1410.0">com.example.demo.service.impl.MembruServiceImpl</node>
+    <node x="93.14361001317593" y="530.0">com.example.demo.utils.exporter.FileExporter</node>
+    <node x="4880.805365852048" y="530.0">com.example.demo.dto.MembruDto</node>
+    <node x="1424.1266611207946" y="530.0">com.example.demo.dto.AdaugareNotaDto</node>
+    <node x="1337.0766611207944" y="1410.0">com.example.demo.controller.CatalogController</node>
+    <node x="4869.055365852048" y="740.0">com.example.demo.service.MembruService</node>
+    <node x="1044.0" y="1485.0">com.example.demo.config.SwaggerConfig</node>
+    <node x="309.0" y="1565.0">com.example.demo.Validators.RestExceptionHandler</node>
+    <node x="3052.8781232803794" y="1410.0">com.example.demo.service.impl.CursServiceImpl</node>
+    <node x="4283.055365852048" y="740.0">com.example.demo.service.ProfesorService</node>
+    <node x="33.89361001317593" y="740.0">com.example.demo.utils.exporter.XMLFileExporter</node>
+    <node x="1424.655795860971" y="100.0">com.example.demo.model.Profesor</node>
+    <node x="3034.5712093948055" y="530.0">com.example.demo.mapper.ProfesorMapper</node>
+    <node x="2496.155795860971" y="530.0">com.example.demo.event.BaseEvent</node>
+    <node x="4166.654542728139" y="1410.0">com.example.demo.StudentApplication</node>
+    <node x="1121.341742163391" y="530.0">com.example.demo.dto.CatalogDto</node>
+    <node x="5174.055365852048" y="740.0">com.example.demo.mapper.UserMapper</node>
+    <node x="3998.0553658520485" y="530.0">com.example.demo.service.EmailWithAttachService</node>
+    <node x="2346.905795860971" y="740.0">com.example.demo.event.StudentCreatedEvent</node>
+    <node x="1914.155795860971" y="740.0">com.example.demo.mapper.StudentMapper</node>
+    <node x="3544.1043137565694" y="740.0">com.example.demo.service.CursService</node>
+    <node x="5436.105365852049" y="740.0">com.example.demo.service.UserService</node>
+    <node x="3727.3543137565694" y="530.0">com.example.demo.service.EmailService</node>
+    <node x="2087.155795860971" y="530.0">com.example.demo.dto.AdaugareCursInCatalogDto</node>
+    <node x="651.0407397957424" y="400.0">com.example.demo.model.StudentCursKey</node>
+    <node x="5367.472032518715" y="530.0">com.example.demo.dto.UserDto</node>
+    <node x="293.68654120258543" y="740.0">com.example.demo.model.GradesList</node>
+    <node x="3649.8543137565694" y="400.0">com.example.demo.dto.ProfesorDto</node>
+    <node x="5506.805365852048" y="1410.0">com.example.demo.controller.UserController</node>
+    <node x="2686.8212093948055" y="740.0">com.example.demo.service.StudentService</node>
+    <node x="4253.805365852048" y="530.0">com.example.demo.dto.ProfesorDto1</node>
+    <node x="2999.8212093948055" y="740.0">com.example.demo.mapper.CursMapper</node>
+    <node x="0.0" y="1565.0">com.example.demo.Validators.PasswordConstraintValidator</node>
+    <node x="3954.654542728139" y="1410.0">com.example.demo.service.impl.SchedulerEmailImpl</node>
+    <node x="1096.155795860971" y="740.0">com.example.demo.repo.StudentRepo</node>
+    <node x="5103.6386991853815" y="530.0">com.example.demo.model.User</node>
+    <node x="4471.055365852048" y="740.0">com.example.demo.dto.TrimitereEmailDto</node>
+    <node x="3449.8212093948055" y="200.0">com.example.demo.dto.CursDto</node>
+    <node x="349.0" y="1485.0">com.example.demo.Validators.ErrorModel</node>
+    <node x="1758.155795860971" y="740.0">com.example.demo.repo.CatalogRepo</node>
+    <node x="1322.0791177972453" y="400.0">com.example.demo.model.Student</node>
+    <node x="3982.0553658520485" y="740.0">com.example.demo.service.impl.EmailWithAttachServiceImpl</node>
+    <node x="3453.3212093948055" y="1410.0">com.example.demo.service.impl.ProfesorServiceImpl</node>
+    <node x="3673.3212093948055" y="1410.0">com.example.demo.controller.CursController</node>
+    <node x="4422.065884178439" y="1410.0">com.example.demo.controller.ProfesorController</node>
+    <node x="2379.794789947046" y="400.0">com.example.demo.event.EventType</node>
+    <node x="880.1208769035675" y="530.0">com.example.demo.dto.CatalogDtoVizualizare</node>
+    <node x="1420.655795860971" y="200.0">com.example.demo.model.Curs</node>
+    <node x="3469.2709804232363" y="530.0">com.example.demo.dto.CursDto1</node>
+    <node x="4720.055365852048" y="740.0">com.example.demo.repo.MembruRepo</node>
+    <node x="3361.2709804232363" y="740.0">com.example.demo.repo.ProfesorRepo</node>
+    <node x="76.0" y="1485.0">com.example.demo.Validators.Password</node>
+    <node x="2867.8212093948055" y="740.0">com.example.demo.repo.CursRepo</node>
+    <node x="2913.737876061472" y="0.0">com.example.demo.model.Membru</node>
+    <node x="2651.0791753758585" y="1410.0">com.example.demo.controller.StudentController</node>
+    <node x="1489.155795860971" y="740.0">com.example.demo.service.CatalogService</node>
+    <node x="589.8755585885119" y="1410.0">com.example.demo.service.impl.CatalogServiceImpl</node>
+    <node x="442.68654120258543" y="740.0">com.example.demo.utils.FileWriterr</node>
+    <node x="562.0" y="1485.0">com.example.demo.config.WebSocketConfiguration</node>
+    <node x="2348.155795860971" y="530.0">com.example.demo.dto.StudentDto</node>
+    <node x="831.0" y="1485.0">com.example.demo.config.WebsocketConfig</node>
+    <node x="1252.155795860971" y="740.0">com.example.demo.utils.NotificationEndpoints</node>
+    <node x="5041.055365852048" y="740.0">com.example.demo.repo.UserRepo</node>
+    <node x="598.6865412025854" y="740.0">com.example.demo.mapper.CatalogMapper</node>
+    <node x="5310.805365852048" y="1410.0">com.example.demo.controller.MembruController</node>
+    <node x="3711.3543137565694" y="740.0">com.example.demo.service.impl.EmailServiceImpl</node>
+    <node x="1821.2656552068695" y="1410.0">com.example.demo.service.impl.StudentServiceImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.demo.repo.CatalogRepo" target="com.example.demo.model.Catalog">
+      <point x="-45.333333333333485" y="-15.0" />
+      <point x="1780.8224625276375" y="580.0" />
+      <point x="837.5301919962367" y="580.0" />
+      <point x="46.222222222222626" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.ProfesorMapper" target="com.example.demo.dto.ProfesorDto">
+      <point x="40.0" y="-15.0" />
+      <point x="3154.5712093948055" y="510.0" />
+      <point x="3666.8543137565694" y="510.0" />
+      <point x="-51.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.ProfesorController" target="com.example.demo.dto.TrimitereEmailDto">
+      <point x="27.42857142857133" y="-15.0" />
+      <point x="4545.49445560701" y="1370.0" />
+      <point x="4563.055365852048" y="1370.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.UserMapper" target="com.example.demo.model.User">
+      <point x="-32.0" y="-15.0" />
+      <point x="5206.055365852048" y="720.0" />
+      <point x="5170.305365852048" y="720.0" />
+      <point x="26.66666666666663" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.dto.ProfesorDto">
+      <point x="-7.142857142857338" y="-15.0" />
+      <point x="3546.178352251948" y="1260.0" />
+      <point x="3700.8543137565694" y="1260.0" />
+      <point x="-17.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CursMapper" target="com.example.demo.mapper.ProfesorMapper">
+      <point x="16.0" y="-15.0" />
+      <point x="3079.8212093948055" y="720.0" />
+      <point x="3082.5712093948055" y="720.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.repo.StudentRepo">
+      <point x="33.39130434782601" y="-15.0" />
+      <point x="719.2668629363379" y="1110.0" />
+      <point x="1113.155795860971" y="1110.0" />
+      <point x="-51.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.ProfesorService" target="com.example.demo.dto.ProfesorDto1">
+      <point x="-42.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CatalogController" target="com.example.demo.service.CatalogService">
+      <point x="0.0" y="-15.0" />
+      <point x="1429.0766611207944" y="1150.0" />
+      <point x="1537.155795860971" y="1150.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.Validators.PasswordConstraintValidator" target="com.example.demo.Validators.Password">
+      <point x="-66.0" y="-15.0" />
+      <point x="66.0" y="1540.0" />
+      <point x="104.0" y="1540.0" />
+      <point x="-28.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.service.CatalogService">
+      <point x="58.43478260869597" y="-15.0" />
+      <point x="744.3103411972079" y="1140.0" />
+      <point x="1505.155795860971" y="1140.0" />
+      <point x="-64.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.mapper.ProfesorMapper">
+      <point x="-21.42857142857156" y="-15.0" />
+      <point x="3531.892637966234" y="850.0" />
+      <point x="3515.7709804232363" y="850.0" />
+      <point x="3515.7709804232363" y="700.0" />
+      <point x="3178.5712093948055" y="700.0" />
+      <point x="64.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.service.StudentService">
+      <point x="60.631578947368325" y="-15.0" />
+      <point x="1977.8972341542378" y="1190.0" />
+      <point x="2706.8212093948055" y="1190.0" />
+      <point x="-60.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.Validators.Password" target="com.example.demo.Validators.PasswordConstraintValidator">
+      <point x="28.0" y="15.0" />
+      <point x="160.0" y="1540.0" />
+      <point x="198.0" y="1540.0" />
+      <point x="66.0" y="-15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Profesor" target="com.example.demo.model.Membru">
+      <point x="-28.0" y="-15.0" />
+      <point x="1452.655795860971" y="70.0" />
+      <point x="2943.737876061472" y="70.0" />
+      <point x="-18.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CatalogMapper" target="com.example.demo.dto.CatalogDtoVizualizare">
+      <point x="30.399999999999636" y="-15.0" />
+      <point x="705.0865412025851" y="700.0" />
+      <point x="907.1208769035675" y="700.0" />
+      <point x="-81.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.ProfesorController" target="com.example.demo.service.impl.EmailWithAttachServiceImpl">
+      <point x="-82.28571428571422" y="-15.0" />
+      <point x="4435.780169892725" y="820.0" />
+      <point x="4161.255365852048" y="820.0" />
+      <point x="51.200000000000045" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.model.Catalog">
+      <point x="-8.347826086956957" y="-15.0" />
+      <point x="677.527732501555" y="1060.0" />
+      <point x="791.307969774014" y="1060.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.dto.AdaugareCursInCatalogDto">
+      <point x="25.04347826086996" y="-15.0" />
+      <point x="710.9190368493819" y="1100.0" />
+      <point x="1059.177534991406" y="1100.0" />
+      <point x="1059.177534991406" y="680.0" />
+      <point x="2107.155795860971" y="680.0" />
+      <point x="-100.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.StudentApplication" target="com.example.demo.service.StudentService">
+      <point x="-72.0" y="-15.0" />
+      <point x="4190.654542728139" y="840.0" />
+      <point x="2826.8212093948055" y="840.0" />
+      <point x="60.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CatalogController" target="com.example.demo.dto.CatalogDtoVizualizare">
+      <point x="-36.80000000000018" y="-15.0" />
+      <point x="1392.2766611207942" y="1050.0" />
+      <point x="1070.177534991406" y="1050.0" />
+      <point x="1070.177534991406" y="650.0" />
+      <point x="1015.1208769035675" y="650.0" />
+      <point x="27.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.dto.CatalogDto">
+      <point x="8.347826086956047" y="-15.0" />
+      <point x="694.223384675468" y="1080.0" />
+      <point x="1042.481882817492" y="1080.0" />
+      <point x="1042.481882817492" y="660.0" />
+      <point x="1153.341742163391" y="660.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.service.MembruService">
+      <point x="78.85714285714289" y="-15.0" />
+      <point x="4857.876794423477" y="1390.0" />
+      <point x="4907.055365852048" y="1390.0" />
+      <point x="-38.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.utils.exporter.FileExporter">
+      <point x="-66.78260869565202" y="-15.0" />
+      <point x="619.0929498928599" y="1360.0" />
+      <point x="212.39361001317593" y="1360.0" />
+      <point x="212.39361001317593" y="720.0" />
+      <point x="201.14361001317593" y="720.0" />
+      <point x="36.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CursController" target="com.example.demo.dto.CursDto">
+      <point x="60.0" y="-15.0" />
+      <point x="3813.3212093948055" y="1320.0" />
+      <point x="3958.3053658520485" y="1320.0" />
+      <point x="3958.3053658520485" y="320.0" />
+      <point x="3550.1069236805197" y="320.0" />
+      <point x="48.28571428571422" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.service.CursService">
+      <point x="77.0" y="-15.0" />
+      <point x="3213.8781232803794" y="1250.0" />
+      <point x="3600.7709804232363" y="1250.0" />
+      <point x="-11.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.repo.CursRepo">
+      <point x="83.47826086956502" y="-15.0" />
+      <point x="769.3538194580769" y="1200.0" />
+      <point x="2877.154542728139" y="1200.0" />
+      <point x="-46.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.dto.CursDto">
+      <point x="50.526315789473756" y="-15.0" />
+      <point x="1967.7919709963433" y="1180.0" />
+      <point x="2626.655795860971" y="1180.0" />
+      <point x="2626.655795860971" y="330.0" />
+      <point x="3460.964066537663" y="330.0" />
+      <point x="-40.85714285714266" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.mapper.CursMapper">
+      <point x="-21.0" y="-15.0" />
+      <point x="3115.8781232803794" y="910.0" />
+      <point x="3063.8212093948055" y="910.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.MembruController" target="com.example.demo.service.MembruService">
+      <point x="-77.0" y="-15.0" />
+      <point x="5321.805365852048" y="1340.0" />
+      <point x="4983.055365852048" y="1340.0" />
+      <point x="38.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.StudentController" target="com.example.demo.event.BaseEvent">
+      <point x="0.0" y="-15.0" />
+      <point x="2743.0791753758585" y="1150.0" />
+      <point x="2676.3212093948055" y="1150.0" />
+      <point x="2676.3212093948055" y="650.0" />
+      <point x="2596.155795860971" y="650.0" />
+      <point x="40.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.StudentService" target="com.example.demo.dto.StudentDto">
+      <point x="0.0" y="-15.0" />
+      <point x="2766.8212093948055" y="630.0" />
+      <point x="2465.4891291943045" y="630.0" />
+      <point x="53.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.ProfesorService" target="com.example.demo.dto.ProfesorDto">
+      <point x="42.0" y="-15.0" />
+      <point x="4408.305365852048" y="510.0" />
+      <point x="3734.8543137565694" y="510.0" />
+      <point x="17.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Student" target="com.example.demo.model.Curs">
+      <point x="34.66666666666697" y="-15.0" />
+      <point x="1408.7457844639123" y="310.0" />
+      <point x="1460.655795860971" y="310.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CursService" target="com.example.demo.dto.CursDto1">
+      <point x="34.0" y="-15.0" />
+      <point x="3646.1043137565694" y="680.0" />
+      <point x="3525.2709804232363" y="680.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.mapper.CursMapper">
+      <point x="-64.28571428571422" y="-15.0" />
+      <point x="3489.0354951090912" y="880.0" />
+      <point x="3106.487876061472" y="880.0" />
+      <point x="42.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.dto.ProfesorDto1">
+      <point x="50.0" y="-15.0" />
+      <point x="3603.3212093948055" y="1300.0" />
+      <point x="3908.8543137565694" y="1300.0" />
+      <point x="3908.8543137565694" y="720.0" />
+      <point x="4277.805365852048" y="720.0" />
+      <point x="-48.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.StudentController" target="com.example.demo.service.StudentService">
+      <point x="26.28571428571422" y="-15.0" />
+      <point x="2769.3648896615723" y="1140.0" />
+      <point x="2746.8212093948055" y="1140.0" />
+      <point x="-20.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Profesor" target="com.example.demo.model.Curs">
+      <point x="-10.181818181818016" y="15.0" />
+      <point x="1470.473977679153" y="180.0" />
+      <point x="1467.322462527638" y="180.0" />
+      <point x="6.66666666666697" y="-15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.dto.CursDto">
+      <point x="21.0" y="-15.0" />
+      <point x="3157.8781232803794" y="1190.0" />
+      <point x="3295.794789947046" y="1190.0" />
+      <point x="3295.794789947046" y="370.0" />
+      <point x="3490.678352251948" y="370.0" />
+      <point x="-11.142857142857338" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.dto.CatalogDtoVizualizare">
+      <point x="0.0" y="-15.0" />
+      <point x="685.8755585885119" y="1070.0" />
+      <point x="882.3205941401598" y="1070.0" />
+      <point x="882.3205941401598" y="710.0" />
+      <point x="961.1208769035675" y="710.0" />
+      <point x="-27.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.repo.CatalogRepo">
+      <point x="-20.210526315789593" y="-15.0" />
+      <point x="1897.05512889108" y="970.0" />
+      <point x="1814.8224625276375" y="970.0" />
+      <point x="-11.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.CatalogRepo" target="com.example.demo.model.Curs">
+      <point x="45.333333333333485" y="-15.0" />
+      <point x="1871.4891291943045" y="670.0" />
+      <point x="1854.3224625276378" y="670.0" />
+      <point x="1854.3224625276378" y="310.0" />
+      <point x="1467.928523133698" y="310.0" />
+      <point x="7.272727272727025" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CatalogMapper" target="com.example.demo.model.Catalog">
+      <point x="0.0" y="-15.0" />
+      <point x="674.6865412025854" y="690.0" />
+      <point x="779.7524142184584" y="690.0" />
+      <point x="-11.555555555555657" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.MembruController" target="com.example.demo.dto.UserDto">
+      <point x="33.0" y="-15.0" />
+      <point x="5431.805365852048" y="1360.0" />
+      <point x="5424.972032518715" y="1360.0" />
+      <point x="5424.972032518715" y="720.0" />
+      <point x="5428.1386991853815" y="720.0" />
+      <point x="8.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.dto.CursDto" target="com.example.demo.dto.ProfesorDto">
+      <point x="26.0" y="15.0" />
+      <point x="3527.8212093948055" y="350.0" />
+      <point x="3729.187647089903" y="350.0" />
+      <point x="11.333333333333258" y="-15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CursMapper" target="com.example.demo.model.Curs">
+      <point x="-48.0" y="-15.0" />
+      <point x="3015.8212093948055" y="710.0" />
+      <point x="2955.0077468044296" y="710.0" />
+      <point x="2955.0077468044296" y="280.0" />
+      <point x="1489.74670495188" y="280.0" />
+      <point x="29.09090909090901" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.repo.ProfesorRepo">
+      <point x="-50.0" y="-15.0" />
+      <point x="3503.3212093948055" y="870.0" />
+      <point x="3451.2709804232363" y="870.0" />
+      <point x="18.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.repo.ProfesorRepo">
+      <point x="49.0" y="-15.0" />
+      <point x="3185.8781232803794" y="1210.0" />
+      <point x="3379.2709804232363" y="1210.0" />
+      <point x="-54.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.ProfesorMapper" target="com.example.demo.mapper.CursMapper">
+      <point x="0.0" y="15.0" />
+      <point x="3114.5712093948055" y="720.0" />
+      <point x="3111.8212093948055" y="720.0" />
+      <point x="48.0" y="-15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.service.UserService">
+      <point x="73.5" y="-15.0" />
+      <point x="5271.305365852048" y="1370.0" />
+      <point x="5449.705365852049" y="1370.0" />
+      <point x="-54.400000000000006" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.model.Profesor">
+      <point x="-52.57142857142844" y="-15.0" />
+      <point x="4726.448222994906" y="1360.0" />
+      <point x="4698.555365852048" y="1360.0" />
+      <point x="4698.555365852048" y="150.0" />
+      <point x="1531.564886770062" y="150.0" />
+      <point x="50.90909090909099" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.StudentService" target="com.example.demo.dto.AdaugareCursInCatalogDto">
+      <point x="-53.333333333333485" y="-15.0" />
+      <point x="2713.487876061472" y="640.0" />
+      <point x="2307.155795860971" y="640.0" />
+      <point x="100.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Catalog" target="com.example.demo.model.Curs">
+      <point x="-44.57142857142844" y="-15.0" />
+      <point x="746.7365412025856" y="470.0" />
+      <point x="640.5407397957424" y="470.0" />
+      <point x="640.5407397957424" y="290.0" />
+      <point x="1446.110341315516" y="290.0" />
+      <point x="-14.545454545454959" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.SchedulerEmailImpl" target="com.example.demo.service.impl.EmailWithAttachServiceImpl">
+      <point x="0.0" y="-15.0" />
+      <point x="4050.654542728139" y="1350.0" />
+      <point x="4110.055365852048" y="1350.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.MembruController" target="com.example.demo.dto.MembruDto">
+      <point x="-33.0" y="-15.0" />
+      <point x="5365.805365852048" y="1320.0" />
+      <point x="5345.972032518715" y="1320.0" />
+      <point x="5345.972032518715" y="700.0" />
+      <point x="4980.805365852048" y="700.0" />
+      <point x="40.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.dto.AdaugareNotaDto">
+      <point x="16.695652173913004" y="-15.0" />
+      <point x="702.5712107624249" y="1090.0" />
+      <point x="1050.829708904449" y="1090.0" />
+      <point x="1050.829708904449" y="670.0" />
+      <point x="1452.1266611207946" y="670.0" />
+      <point x="-56.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.utils.NotificationEndpoints">
+      <point x="-70.73684210526335" y="-15.0" />
+      <point x="1846.5288131016061" y="1020.0" />
+      <point x="1414.155795860971" y="1020.0" />
+      <point x="54.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.StudentRepo" target="com.example.demo.model.Student">
+      <point x="0.0" y="-15.0" />
+      <point x="1164.155795860971" y="650.0" />
+      <point x="1106.6208769035675" y="650.0" />
+      <point x="1106.6208769035675" y="510.0" />
+      <point x="1367.5791177972453" y="510.0" />
+      <point x="-6.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.mapper.UserMapper">
+      <point x="31.5" y="-15.0" />
+      <point x="5229.305365852048" y="1390.0" />
+      <point x="5238.055365852048" y="1390.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CatalogService" target="com.example.demo.dto.AdaugareCursInCatalogDto">
+      <point x="64.0" y="-15.0" />
+      <point x="1633.155795860971" y="690.0" />
+      <point x="2147.155795860971" y="690.0" />
+      <point x="-60.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.dto.UserDto">
+      <point x="52.5" y="-15.0" />
+      <point x="5250.305365852048" y="1360.0" />
+      <point x="5312.555365852048" y="1360.0" />
+      <point x="5312.555365852048" y="720.0" />
+      <point x="5393.472032518715" y="720.0" />
+      <point x="-26.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Catalog" target="com.example.demo.model.Student">
+      <point x="29.714285714285325" y="-15.0" />
+      <point x="821.0222554882994" y="490.0" />
+      <point x="1341.5791177972453" y="490.0" />
+      <point x="-32.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.model.GradesList">
+      <point x="-50.08695652173901" y="-15.0" />
+      <point x="635.7886020667729" y="1340.0" />
+      <point x="325.68654120258543" y="1340.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.model.Membru">
+      <point x="-26.28571428571422" y="-15.0" />
+      <point x="4752.73393728062" y="1350.0" />
+      <point x="4709.555365852048" y="1350.0" />
+      <point x="4709.555365852048" y="80.0" />
+      <point x="2967.737876061472" y="80.0" />
+      <point x="6.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.StudentMapper" target="com.example.demo.dto.StudentDto">
+      <point x="38.0" y="-15.0" />
+      <point x="2028.155795860971" y="700.0" />
+      <point x="2358.8224625276375" y="700.0" />
+      <point x="-53.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.service.MembruService">
+      <point x="-73.5" y="-15.0" />
+      <point x="5124.305365852048" y="1390.0" />
+      <point x="4932.3886991853815" y="1390.0" />
+      <point x="-12.666666666666686" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.utils.exporter.XMLFileExporter" target="com.example.demo.utils.exporter.FileExporter">
+      <point x="0.0" y="-15.0" />
+      <point x="117.89361001317593" y="720.0" />
+      <point x="129.14361001317593" y="720.0" />
+      <point x="-36.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CatalogController" target="com.example.demo.dto.AdaugareNotaDto">
+      <point x="73.60000000000036" y="-15.0" />
+      <point x="1502.6766611207947" y="1170.0" />
+      <point x="1672.155795860971" y="1170.0" />
+      <point x="1672.155795860971" y="590.0" />
+      <point x="1564.1266611207946" y="590.0" />
+      <point x="56.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.model.Student">
+      <point x="-78.85714285714289" y="-15.0" />
+      <point x="4700.162508709192" y="1370.0" />
+      <point x="4687.555365852048" y="1370.0" />
+      <point x="4687.555365852048" y="480.0" />
+      <point x="1419.5791177972453" y="480.0" />
+      <point x="45.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.MembruController" target="com.example.demo.model.Membru">
+      <point x="-11.0" y="-15.0" />
+      <point x="5387.805365852048" y="1310.0" />
+      <point x="5356.972032518715" y="1310.0" />
+      <point x="5356.972032518715" y="50.0" />
+      <point x="3003.737876061472" y="50.0" />
+      <point x="42.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CatalogMapper" target="com.example.demo.dto.CursDto">
+      <point x="-30.399999999999636" y="-15.0" />
+      <point x="644.2865412025858" y="650.0" />
+      <point x="629.5407397957424" y="650.0" />
+      <point x="629.5407397957424" y="320.0" />
+      <point x="3453.5354951090912" y="320.0" />
+      <point x="-48.28571428571422" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.MembruController" target="com.example.demo.service.UserService">
+      <point x="55.0" y="-15.0" />
+      <point x="5453.805365852048" y="1380.0" />
+      <point x="5476.905365852049" y="1380.0" />
+      <point x="-27.19999999999999" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.StudentService" target="com.example.demo.dto.CursDto">
+      <point x="53.333333333333485" y="-15.0" />
+      <point x="2820.154542728139" y="620.0" />
+      <point x="2745.638699185382" y="620.0" />
+      <point x="2745.638699185382" y="340.0" />
+      <point x="3468.392637966234" y="340.0" />
+      <point x="-33.42857142857156" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.EmailWithAttachServiceImpl" target="com.example.demo.service.EmailWithAttachService">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CursController" target="com.example.demo.service.CursService">
+      <point x="-60.0" y="-15.0" />
+      <point x="3693.3212093948055" y="1250.0" />
+      <point x="3623.4376470899033" y="1250.0" />
+      <point x="11.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CatalogMapper" target="com.example.demo.model.Curs">
+      <point x="-60.80000000000018" y="-15.0" />
+      <point x="613.8865412025852" y="650.0" />
+      <point x="618.5407397957424" y="650.0" />
+      <point x="618.5407397957424" y="280.0" />
+      <point x="1438.837614042789" y="280.0" />
+      <point x="-21.818181818181984" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.MembruService" target="com.example.demo.dto.MembruDto">
+      <point x="38.0" y="-15.0" />
+      <point x="4983.055365852048" y="720.0" />
+      <point x="4940.805365852048" y="720.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.StudentApplication" target="com.example.demo.service.ProfesorService">
+      <point x="24.0" y="-15.0" />
+      <point x="4286.654542728139" y="1370.0" />
+      <point x="4346.055365852048" y="1370.0" />
+      <point x="-21.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.repo.CursRepo">
+      <point x="-92.85714285714266" y="-15.0" />
+      <point x="3460.464066537663" y="900.0" />
+      <point x="2951.8212093948055" y="900.0" />
+      <point x="28.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.service.CursService">
+      <point x="80.84210526315792" y="-15.0" />
+      <point x="1998.1077604700274" y="1230.0" />
+      <point x="3555.4376470899033" y="1230.0" />
+      <point x="-56.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.repo.MembruRepo">
+      <point x="0.0" y="-15.0" />
+      <point x="4779.019651566334" y="1340.0" />
+      <point x="4752.055365852048" y="1340.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.repo.StudentRepo">
+      <point x="-90.94736842105249" y="-15.0" />
+      <point x="1826.318286785817" y="1040.0" />
+      <point x="1181.155795860971" y="1040.0" />
+      <point x="17.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.utils.exporter.XMLFileExporter">
+      <point x="-75.13043478260897" y="-15.0" />
+      <point x="610.745123805903" y="1370.0" />
+      <point x="117.89361001317593" y="1370.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.EmailServiceImpl" target="com.example.demo.service.EmailService">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.UserController" target="com.example.demo.dto.UserDto">
+      <point x="53.333333333333485" y="-15.0" />
+      <point x="5640.1386991853815" y="1390.0" />
+      <point x="5625.522032518716" y="1390.0" />
+      <point x="5625.522032518716" y="710.0" />
+      <point x="5462.805365852049" y="710.0" />
+      <point x="43.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.event.StudentCreatedEvent">
+      <point x="40.42105263157873" y="-15.0" />
+      <point x="1957.6867078384482" y="1170.0" />
+      <point x="2446.905795860971" y="1170.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.StudentMapper" target="com.example.demo.model.Student">
+      <point x="-38.0" y="-15.0" />
+      <point x="1952.155795860971" y="490.0" />
+      <point x="1406.5791177972453" y="490.0" />
+      <point x="32.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.MembruRepo" target="com.example.demo.model.Membru">
+      <point x="0.0" y="-15.0" />
+      <point x="4784.055365852048" y="70.0" />
+      <point x="2979.737876061472" y="70.0" />
+      <point x="18.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.mapper.ProfesorMapper">
+      <point x="-7.0" y="-15.0" />
+      <point x="3129.8781232803794" y="1170.0" />
+      <point x="3164.8212093948055" y="1170.0" />
+      <point x="3164.8212093948055" y="720.0" />
+      <point x="3146.5712093948055" y="720.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.event.StudentCreatedEvent" target="com.example.demo.event.EventType">
+      <point x="-80.0" y="-15.0" />
+      <point x="2366.905795860971" y="690.0" />
+      <point x="2337.655795860971" y="690.0" />
+      <point x="2337.655795860971" y="510.0" />
+      <point x="2409.794789947046" y="510.0" />
+      <point x="-30.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.service.CatalogService">
+      <point x="-50.526315789473756" y="-15.0" />
+      <point x="1866.7393394173957" y="1000.0" />
+      <point x="1601.155795860971" y="1000.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.StudentApplication" target="com.example.demo.service.MembruService">
+      <point x="72.0" y="-15.0" />
+      <point x="4334.654542728139" y="1380.0" />
+      <point x="4881.722032518715" y="1380.0" />
+      <point x="-63.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Student" target="com.example.demo.model.Membru">
+      <point x="-34.66666666666697" y="-15.0" />
+      <point x="1339.4124511305783" y="250.0" />
+      <point x="1351.2457844639118" y="250.0" />
+      <point x="1351.2457844639118" y="50.0" />
+      <point x="2919.737876061472" y="50.0" />
+      <point x="-42.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.dto.AdaugareCursInCatalogDto">
+      <point x="20.210526315789593" y="-15.0" />
+      <point x="1937.476181522659" y="1150.0" />
+      <point x="2187.155795860971" y="1150.0" />
+      <point x="-20.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.GradesList" target="com.example.demo.model.Catalog">
+      <point x="0.0" y="-15.0" />
+      <point x="357.68654120258543" y="660.0" />
+      <point x="745.0857475517914" y="660.0" />
+      <point x="-46.222222222222626" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.service.impl.EmailWithAttachServiceImpl">
+      <point x="64.28571428571422" y="-15.0" />
+      <point x="3617.6069236805197" y="1330.0" />
+      <point x="4007.655365852049" y="1330.0" />
+      <point x="-102.40000000000009" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.UserService" target="com.example.demo.dto.UserDto">
+      <point x="0.0" y="-15.0" />
+      <point x="5504.105365852049" y="720.0" />
+      <point x="5445.472032518715" y="720.0" />
+      <point x="26.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Curs" target="com.example.demo.model.Profesor">
+      <point x="-33.33333333333303" y="-15.0" />
+      <point x="1427.322462527638" y="160.0" />
+      <point x="1439.928523133698" y="160.0" />
+      <point x="-40.727272727272975" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.MembruService" target="com.example.demo.model.Membru">
+      <point x="-38.0" y="-15.0" />
+      <point x="4907.055365852048" y="710.0" />
+      <point x="4853.805365852048" y="710.0" />
+      <point x="4853.805365852048" y="60.0" />
+      <point x="2991.737876061472" y="60.0" />
+      <point x="30.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.MembruServiceImpl" target="com.example.demo.dto.MembruDto">
+      <point x="52.57142857142844" y="-15.0" />
+      <point x="4831.591080137763" y="1370.0" />
+      <point x="4858.555365852048" y="1370.0" />
+      <point x="4858.555365852048" y="720.0" />
+      <point x="4900.805365852048" y="720.0" />
+      <point x="-40.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.utils.NotificationEndpoints">
+      <point x="50.08695652173901" y="-15.0" />
+      <point x="735.9625151102509" y="1130.0" />
+      <point x="1306.155795860971" y="1130.0" />
+      <point x="-54.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.StudentApplication" target="com.example.demo.service.CursService">
+      <point x="-24.0" y="-15.0" />
+      <point x="4238.654542728139" y="830.0" />
+      <point x="3668.7709804232363" y="830.0" />
+      <point x="56.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.ProfesorController" target="com.example.demo.dto.ProfesorDto">
+      <point x="82.28571428571422" y="-15.0" />
+      <point x="4600.351598464153" y="1370.0" />
+      <point x="4676.555365852048" y="1370.0" />
+      <point x="4676.555365852048" y="500.0" />
+      <point x="3768.8543137565694" y="500.0" />
+      <point x="51.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.service.ProfesorService">
+      <point x="92.85714285714266" y="-15.0" />
+      <point x="3646.178352251948" y="1360.0" />
+      <point x="4304.055365852048" y="1360.0" />
+      <point x="-63.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.model.Curs">
+      <point x="-83.47826086956502" y="-15.0" />
+      <point x="602.3972977189469" y="1380.0" />
+      <point x="23.39361001317593" y="1380.0" />
+      <point x="23.39361001317593" y="260.0" />
+      <point x="1424.292159497335" y="260.0" />
+      <point x="-36.36363636363603" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.model.Catalog" target="com.example.demo.model.StudentCursKey">
+      <point x="-29.714285714285325" y="-15.0" />
+      <point x="761.5936840597287" y="460.0" />
+      <point x="677.7074064624094" y="460.0" />
+      <point x="-53.33333333333303" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.StudentController" target="com.example.demo.dto.StudentDto">
+      <point x="-26.28571428571422" y="-15.0" />
+      <point x="2716.793461090144" y="1160.0" />
+      <point x="2665.3212093948055" y="1160.0" />
+      <point x="2665.3212093948055" y="660.0" />
+      <point x="2444.155795860971" y="660.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.repo.CatalogRepo">
+      <point x="-77.0" y="-15.0" />
+      <point x="3059.8781232803794" y="950.0" />
+      <point x="1860.155795860971" y="950.0" />
+      <point x="34.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.ProfesorController" target="com.example.demo.dto.ProfesorDto1">
+      <point x="54.85714285714289" y="-15.0" />
+      <point x="4572.923027035582" y="1360.0" />
+      <point x="4665.555365852048" y="1360.0" />
+      <point x="4665.555365852048" y="710.0" />
+      <point x="4373.805365852048" y="710.0" />
+      <point x="48.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.mapper.CatalogMapper">
+      <point x="-16.695652173913004" y="-15.0" />
+      <point x="669.1799064145989" y="1050.0" />
+      <point x="674.6865412025854" y="1050.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.UserRepo" target="com.example.demo.model.User">
+      <point x="0.0" y="-15.0" />
+      <point x="5097.055365852048" y="720.0" />
+      <point x="5116.972032518715" y="720.0" />
+      <point x="-26.66666666666663" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.dto.ProfesorDto" target="com.example.demo.dto.CursDto">
+      <point x="-56.66666666666674" y="-15.0" />
+      <point x="3661.187647089903" y="380.0" />
+      <point x="3505.5354951090912" y="380.0" />
+      <point x="3.7142857142857792" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.mapper.StudentMapper">
+      <point x="0.0" y="-15.0" />
+      <point x="1917.2656552068695" y="1130.0" />
+      <point x="1990.155795860971" y="1130.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.utils.FileWriterr" target="com.example.demo.model.Catalog">
+      <point x="34.0" y="-15.0" />
+      <point x="544.6865412025854" y="680.0" />
+      <point x="768.1968586629027" y="680.0" />
+      <point x="-23.111111111111313" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.CatalogRepo" target="com.example.demo.model.Student">
+      <point x="0.0" y="-15.0" />
+      <point x="1826.155795860971" y="670.0" />
+      <point x="1843.3224625276378" y="670.0" />
+      <point x="1843.3224625276378" y="500.0" />
+      <point x="1393.5791177972453" y="500.0" />
+      <point x="19.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.CursRepo" target="com.example.demo.model.Curs">
+      <point x="0.0" y="-15.0" />
+      <point x="2923.8212093948055" y="610.0" />
+      <point x="2764.2220325187154" y="610.0" />
+      <point x="2764.2220325187154" y="290.0" />
+      <point x="1482.473977679153" y="290.0" />
+      <point x="21.818181818181984" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.StudentController" target="com.example.demo.dto.AdaugareCursInCatalogDto">
+      <point x="-52.57142857142844" y="-15.0" />
+      <point x="2690.50774680443" y="1170.0" />
+      <point x="2654.3212093948055" y="1170.0" />
+      <point x="2654.3212093948055" y="670.0" />
+      <point x="2267.155795860971" y="670.0" />
+      <point x="60.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.ProfesorController" target="com.example.demo.service.ProfesorService">
+      <point x="-27.42857142857156" y="-15.0" />
+      <point x="4490.637312749867" y="800.0" />
+      <point x="4388.055365852048" y="800.0" />
+      <point x="21.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.mapper.CursMapper">
+      <point x="70.73684210526335" y="-15.0" />
+      <point x="1988.0024973121328" y="1220.0" />
+      <point x="3021.154542728139" y="1220.0" />
+      <point x="-42.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.model.Curs">
+      <point x="7.0" y="-15.0" />
+      <point x="3143.8781232803794" y="1180.0" />
+      <point x="3205.0712093948055" y="1180.0" />
+      <point x="3205.0712093948055" y="270.0" />
+      <point x="1497.019432224607" y="270.0" />
+      <point x="36.36363636363603" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.UserMapper" target="com.example.demo.dto.UserDto">
+      <point x="32.0" y="-15.0" />
+      <point x="5270.055365852048" y="710.0" />
+      <point x="5376.1386991853815" y="710.0" />
+      <point x="-43.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.repo.CatalogRepo">
+      <point x="66.78260869565202" y="-15.0" />
+      <point x="752.6581672841639" y="1180.0" />
+      <point x="1769.4891291943045" y="1180.0" />
+      <point x="-56.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CatalogController" target="com.example.demo.model.Catalog">
+      <point x="-73.60000000000036" y="-15.0" />
+      <point x="1355.476661120794" y="1060.0" />
+      <point x="867.807969774014" y="1060.0" />
+      <point x="867.807969774014" y="690.0" />
+      <point x="802.8635253295697" y="690.0" />
+      <point x="11.555555555555657" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CatalogService" target="com.example.demo.model.Catalog">
+      <point x="-64.0" y="-15.0" />
+      <point x="1505.155795860971" y="630.0" />
+      <point x="825.974636440681" y="630.0" />
+      <point x="34.66666666666697" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CursService" target="com.example.demo.dto.CursDto">
+      <point x="-34.0" y="-15.0" />
+      <point x="3578.1043137565694" y="690.0" />
+      <point x="3458.7709804232363" y="690.0" />
+      <point x="3458.7709804232363" y="380.0" />
+      <point x="3498.1069236805197" y="380.0" />
+      <point x="-3.7142857142857792" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.UserController" target="com.example.demo.service.UserService">
+      <point x="-53.33333333333334" y="-15.0" />
+      <point x="5533.472032518715" y="1390.0" />
+      <point x="5531.305365852048" y="1390.0" />
+      <point x="27.19999999999999" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.dto.CursDto1">
+      <point x="35.0" y="-15.0" />
+      <point x="3171.8781232803794" y="1200.0" />
+      <point x="3350.7709804232363" y="1200.0" />
+      <point x="3350.7709804232363" y="720.0" />
+      <point x="3487.937647089903" y="720.0" />
+      <point x="-37.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CursServiceImpl" target="com.example.demo.repo.CursRepo">
+      <point x="-49.0" y="-15.0" />
+      <point x="3087.8781232803794" y="930.0" />
+      <point x="2914.487876061472" y="930.0" />
+      <point x="-9.333333333333485" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.repo.UserRepo">
+      <point x="-31.5" y="-15.0" />
+      <point x="5166.305365852048" y="1370.0" />
+      <point x="5069.055365852048" y="1370.0" />
+      <point x="-28.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CatalogService" target="com.example.demo.dto.AdaugareNotaDto">
+      <point x="32.0" y="-15.0" />
+      <point x="1601.155795860971" y="600.0" />
+      <point x="1508.1266611207946" y="600.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.model.Student">
+      <point x="-58.43478260869597" y="-15.0" />
+      <point x="627.440775979816" y="1350.0" />
+      <point x="258.64361001317593" y="1350.0" />
+      <point x="258.64361001317593" y="480.0" />
+      <point x="1328.5791177972453" y="480.0" />
+      <point x="-45.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.event.StudentCreatedEvent" target="com.example.demo.event.BaseEvent">
+      <point x="80.0" y="-15.0" />
+      <point x="2526.905795860971" y="710.0" />
+      <point x="2556.155795860971" y="710.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CatalogMapper" target="com.example.demo.mapper.ProfesorMapper">
+      <point x="60.80000000000018" y="-15.0" />
+      <point x="735.4865412025856" y="720.0" />
+      <point x="3050.5712093948055" y="720.0" />
+      <point x="-64.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.utils.FileWriterr">
+      <point x="-25.04347826086996" y="-15.0" />
+      <point x="660.832080327642" y="1310.0" />
+      <point x="510.68654120258543" y="1310.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.model.Profesor">
+      <point x="35.71428571428578" y="-15.0" />
+      <point x="3589.0354951090912" y="1290.0" />
+      <point x="3897.8543137565694" y="1290.0" />
+      <point x="3897.8543137565694" y="160.0" />
+      <point x="1521.383068588244" y="160.0" />
+      <point x="40.727272727272975" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.StudentController" target="com.example.demo.dto.CursDto">
+      <point x="78.85714285714266" y="-15.0" />
+      <point x="2821.9363182330007" y="1190.0" />
+      <point x="2857.3212093948055" y="1190.0" />
+      <point x="2857.3212093948055" y="350.0" />
+      <point x="3475.8212093948055" y="350.0" />
+      <point x="-26.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.CatalogServiceImpl" target="com.example.demo.model.Profesor">
+      <point x="-91.82608695652198" y="-15.0" />
+      <point x="594.04947163199" y="1390.0" />
+      <point x="0.0" y="1390.0" />
+      <point x="0.0" y="150.0" />
+      <point x="1429.74670495188" y="150.0" />
+      <point x="-50.90909090909099" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.model.Student">
+      <point x="-30.315789473684163" y="-15.0" />
+      <point x="1886.9498657331853" y="980.0" />
+      <point x="1747.655795860971" y="980.0" />
+      <point x="1747.655795860971" y="510.0" />
+      <point x="1380.5791177972453" y="510.0" />
+      <point x="6.5" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.model.Catalog">
+      <point x="-60.631578947368325" y="-15.0" />
+      <point x="1856.6340762595012" y="1010.0" />
+      <point x="1478.655795860971" y="1010.0" />
+      <point x="1478.655795860971" y="640.0" />
+      <point x="814.4190808851254" y="640.0" />
+      <point x="23.111111111111313" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.UserServiceImpl" target="com.example.demo.model.User">
+      <point x="10.5" y="-15.0" />
+      <point x="5208.305365852048" y="1350.0" />
+      <point x="5163.555365852048" y="1350.0" />
+      <point x="5163.555365852048" y="720.0" />
+      <point x="5143.6386991853815" y="720.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.repo.ProfesorRepo" target="com.example.demo.model.Profesor">
+      <point x="0.0" y="-15.0" />
+      <point x="3433.2709804232363" y="710.0" />
+      <point x="3348.044789947046" y="710.0" />
+      <point x="3348.044789947046" y="170.0" />
+      <point x="1511.201250406426" y="170.0" />
+      <point x="30.54545454545496" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.model.Curs">
+      <point x="10.10526315789457" y="-15.0" />
+      <point x="1927.370918364764" y="1140.0" />
+      <point x="2076.655795860971" y="1140.0" />
+      <point x="2076.655795860971" y="300.0" />
+      <point x="1475.201250406426" y="300.0" />
+      <point x="14.545454545454959" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.ProfesorMapper" target="com.example.demo.model.Profesor">
+      <point x="-40.0" y="-15.0" />
+      <point x="3074.5712093948055" y="180.0" />
+      <point x="1501.019432224607" y="180.0" />
+      <point x="20.363636363636033" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.mapper.CursMapper" target="com.example.demo.dto.CursDto">
+      <point x="-16.0" y="-15.0" />
+      <point x="3047.8212093948055" y="710.0" />
+      <point x="3024.0712093948055" y="710.0" />
+      <point x="3024.0712093948055" y="360.0" />
+      <point x="3483.249780823377" y="360.0" />
+      <point x="-18.57142857142844" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.event.BaseEvent" target="com.example.demo.event.EventType">
+      <point x="0.0" y="-15.0" />
+      <point x="2556.155795860971" y="510.0" />
+      <point x="2469.794789947046" y="510.0" />
+      <point x="30.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.Validators.RestExceptionHandler" target="com.example.demo.Validators.ErrorModel">
+      <point x="-52.0" y="-15.0" />
+      <point x="361.0" y="1540.0" />
+      <point x="381.0" y="1540.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.event.StudentCreatedEvent" target="com.example.demo.dto.StudentDto">
+      <point x="-40.0" y="-15.0" />
+      <point x="2406.905795860971" y="710.0" />
+      <point x="2401.4891291943045" y="710.0" />
+      <point x="-10.666666666666515" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.StudentServiceImpl" target="com.example.demo.dto.StudentDto">
+      <point x="30.315789473684163" y="-15.0" />
+      <point x="1947.5814446805537" y="1160.0" />
+      <point x="2281.4584274399185" y="1160.0" />
+      <point x="2281.4584274399185" y="710.0" />
+      <point x="2380.155795860971" y="710.0" />
+      <point x="-32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.impl.ProfesorServiceImpl" target="com.example.demo.service.impl.EmailServiceImpl">
+      <point x="7.142857142857338" y="-15.0" />
+      <point x="3560.464066537663" y="1270.0" />
+      <point x="3755.3543137565694" y="1270.0" />
+      <point x="-44.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.utils.FileWriterr" target="com.example.demo.model.Curs">
+      <point x="-34.0" y="-15.0" />
+      <point x="476.68654120258543" y="650.0" />
+      <point x="247.64361001317593" y="650.0" />
+      <point x="247.64361001317593" y="270.0" />
+      <point x="1431.564886770062" y="270.0" />
+      <point x="-29.09090909090901" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CatalogService" target="com.example.demo.dto.CatalogDto">
+      <point x="0.0" y="-15.0" />
+      <point x="1569.155795860971" y="610.0" />
+      <point x="1217.341742163391" y="610.0" />
+      <point x="32.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.service.CatalogService" target="com.example.demo.dto.CatalogDtoVizualizare">
+      <point x="-32.0" y="-15.0" />
+      <point x="1537.155795860971" y="620.0" />
+      <point x="1069.1208769035675" y="620.0" />
+      <point x="81.0" y="15.0" />
+    </edge>
+    <edge source="com.example.demo.controller.CursController" target="com.example.demo.dto.CursDto1">
+      <point x="20.0" y="-15.0" />
+      <point x="3773.3212093948055" y="1310.0" />
+      <point x="3947.3053658520485" y="1310.0" />
+      <point x="3947.3053658520485" y="670.0" />
+      <point x="3562.60431375657" y="670.0" />
+      <point x="37.333333333333485" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.30000000000000004" x="2446.999999999999" y="692.9999999999998" />
+  <SelectedNodes>
+    <node>com.example.demo.event.StudentCreatedEvent</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
